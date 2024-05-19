@@ -6,7 +6,7 @@
 <br> 📅 Project Manager en <a href="https://urooncoargentina.com/" target="blank"> Novedades en Urooncología </a>
 <br> 📚 Diviertiéndome y afianzando conocimientos mientras doy clases en el Colegio <a href="https://www.colegioedison.edu.ar/" target="blank"> Tomás Alva Edison </a>
 <br> 👩‍🎓 Estudiante de Ingeniería en Sistemas en la UTN.
-<br> 📌 Además de eso, me encanta el maquillaje, pasar tiempo en familia y caminar al aire libre.
+<br> 📌 Además de eso, me encanta el maquillaje, pasar tiempo en familia y tomar mate al aire libre.
 </p>
 
 <!-- Tech Stack --> 
