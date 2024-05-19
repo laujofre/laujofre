@@ -2,9 +2,9 @@
 
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> !! Soy Laura.</h1>
 <h3 align="center">Sobre mí :</h3> 
-<p> 💻 Soy web developer, actualmente aprendiendo <!-- React, Python e  --> Inglés.
-<br> 📅 Project Manager en <a href="https://urooncoargentina.com/" target="blank"> Novedades en Urooncología </a>
-<br> 📚 Diviertiéndome y afianzando conocimientos mientras doy clases en el Colegio <a href="https://www.colegioedison.edu.ar/" target="blank"> Tomás Alva Edison </a>
+<p> 💻 Soy web developer, aprendiendo <!-- React, Python e  --> Inglés.
+<br> 📅 Project Manager en <a href="https://urooncoargentina.com/" target="blank"> Novedades en Urooncología </a>. Por cierto, este proyecto está creciendo exponencialmente 😨
+<br> 📚 Diviertiéndome mientras formamos un semillero de programadores y aportando un granito arena en el Colegio <a href="https://www.colegioedison.edu.ar/" target="blank"> Tomás Alva Edison </a>
 <br> 👩‍🎓 Estudiante de Ingeniería en Sistemas en la UTN.
 <br> 📌 Además de eso, me encanta el maquillaje, pasar tiempo en familia y tomar mate al aire libre.
 </p>
@@ -17,13 +17,18 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="height: 4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="height: 4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"  style="height: 4rem"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height: 4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" style="height: 4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" style="height: 4rem; background-color:white"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  style="height: 4rem"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" style="height: 4rem" />
-<!--  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" style="height: 4rem" />-->
 </p>
+
+<h3 align="Center"><img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Actualmente me capacito en:</h3>  
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height: 4rem"/>
+</p>
+
+<!--  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" style="height: 4rem" />-->
+
 
 <!-- Socials --> 
 
