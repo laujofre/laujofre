@@ -4,7 +4,7 @@
 <h3 align="center">Sobre mí :</h3> 
 <p> 💻 Soy web developer, aprendiendo React, Python e Inglés.
 <br> 📅 Project Manager en <a href="https://urooncoargentina.com/" target="blank"> Novedades en Urooncología </a>. Por cierto, este proyecto está creciendo exponencialmente 😨
-<br> 📚 Diviertiéndome mientras formamos un semillero de programadores y aportando un granito arena en el Colegio <a href="https://www.colegioedison.edu.ar/" target="blank"> Tomás Alva Edison </a>
+<br> 📚 Divirtiéndome mientras formamos un semillero de programadores y aportando un granito arena en el Colegio <a href="https://www.colegioedison.edu.ar/" target="blank"> Tomás Alva Edison </a>
 <br> 👩‍🎓 Estudiante de Ingeniería en Sistemas en la UTN.
 <br> 📌 Además de eso, me encanta el maquillaje, pasar tiempo en familia y tomar mate al aire libre.
 </p>
