@@ -2,7 +2,7 @@
 
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> !! Soy Laura.</h1>
 <h3 align="center">Sobre mí :</h3> 
-<p> 💻 Soy web developer, aprendiendo <!-- React, Python e  --> Inglés.
+<p> 💻 Soy web developer, aprendiendo React, Python e Inglés.
 <br> 📅 Project Manager en <a href="https://urooncoargentina.com/" target="blank"> Novedades en Urooncología </a>. Por cierto, este proyecto está creciendo exponencialmente 😨
 <br> 📚 Diviertiéndome mientras formamos un semillero de programadores y aportando un granito arena en el Colegio <a href="https://www.colegioedison.edu.ar/" target="blank"> Tomás Alva Edison </a>
 <br> 👩‍🎓 Estudiante de Ingeniería en Sistemas en la UTN.
